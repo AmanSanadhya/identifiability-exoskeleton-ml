@@ -1,0 +1,12 @@
+# Packages for IdentifiabilityInML_Aman_Sanadhya.ipynb (PGE 383 project notebook).
+# The wdiag research package in this folder uses pyproject.toml instead.
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+joblib
+pillow
+ipython
+ipykernel
+ipywidgets
